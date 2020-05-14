@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dhavalpsoni/react-search-user.git/static/css/main.d1b59c5c.chunk.css",
+    "main.js": "/dhavalpsoni/react-search-user.git/static/js/main.385a6e73.chunk.js",
+    "main.js.map": "/dhavalpsoni/react-search-user.git/static/js/main.385a6e73.chunk.js.map",
+    "runtime-main.js": "/dhavalpsoni/react-search-user.git/static/js/runtime-main.59187488.js",
+    "runtime-main.js.map": "/dhavalpsoni/react-search-user.git/static/js/runtime-main.59187488.js.map",
+    "static/js/2.b0e7918a.chunk.js": "/dhavalpsoni/react-search-user.git/static/js/2.b0e7918a.chunk.js",
+    "static/js/2.b0e7918a.chunk.js.map": "/dhavalpsoni/react-search-user.git/static/js/2.b0e7918a.chunk.js.map",
+    "index.html": "/dhavalpsoni/react-search-user.git/index.html",
+    "precache-manifest.f029662eafe25ca6be9685024d350e14.js": "/dhavalpsoni/react-search-user.git/precache-manifest.f029662eafe25ca6be9685024d350e14.js",
+    "service-worker.js": "/dhavalpsoni/react-search-user.git/service-worker.js",
+    "static/css/main.d1b59c5c.chunk.css.map": "/dhavalpsoni/react-search-user.git/static/css/main.d1b59c5c.chunk.css.map",
+    "static/js/2.b0e7918a.chunk.js.LICENSE.txt": "/dhavalpsoni/react-search-user.git/static/js/2.b0e7918a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dhavalpsoni/react-search-user.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59187488.js",
+    "static/js/2.b0e7918a.chunk.js",
+    "static/css/main.d1b59c5c.chunk.css",
+    "static/js/main.385a6e73.chunk.js"
+  ]
+}
