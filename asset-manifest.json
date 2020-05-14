@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/dhavalpsoni/react-search-user.git/static/css/main.d1b59c5c.chunk.css",
-    "main.js": "/dhavalpsoni/react-search-user.git/static/js/main.385a6e73.chunk.js",
-    "main.js.map": "/dhavalpsoni/react-search-user.git/static/js/main.385a6e73.chunk.js.map",
-    "runtime-main.js": "/dhavalpsoni/react-search-user.git/static/js/runtime-main.59187488.js",
-    "runtime-main.js.map": "/dhavalpsoni/react-search-user.git/static/js/runtime-main.59187488.js.map",
-    "static/js/2.b0e7918a.chunk.js": "/dhavalpsoni/react-search-user.git/static/js/2.b0e7918a.chunk.js",
-    "static/js/2.b0e7918a.chunk.js.map": "/dhavalpsoni/react-search-user.git/static/js/2.b0e7918a.chunk.js.map",
-    "index.html": "/dhavalpsoni/react-search-user.git/index.html",
-    "precache-manifest.f029662eafe25ca6be9685024d350e14.js": "/dhavalpsoni/react-search-user.git/precache-manifest.f029662eafe25ca6be9685024d350e14.js",
-    "service-worker.js": "/dhavalpsoni/react-search-user.git/service-worker.js",
-    "static/css/main.d1b59c5c.chunk.css.map": "/dhavalpsoni/react-search-user.git/static/css/main.d1b59c5c.chunk.css.map",
-    "static/js/2.b0e7918a.chunk.js.LICENSE.txt": "/dhavalpsoni/react-search-user.git/static/js/2.b0e7918a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/dhavalpsoni/react-search-user.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-search-user/static/css/main.d1b59c5c.chunk.css",
+    "main.js": "/react-search-user/static/js/main.17cc99ed.chunk.js",
+    "main.js.map": "/react-search-user/static/js/main.17cc99ed.chunk.js.map",
+    "runtime-main.js": "/react-search-user/static/js/runtime-main.085b95f6.js",
+    "runtime-main.js.map": "/react-search-user/static/js/runtime-main.085b95f6.js.map",
+    "static/js/2.b0e7918a.chunk.js": "/react-search-user/static/js/2.b0e7918a.chunk.js",
+    "static/js/2.b0e7918a.chunk.js.map": "/react-search-user/static/js/2.b0e7918a.chunk.js.map",
+    "index.html": "/react-search-user/index.html",
+    "precache-manifest.ed86c35e2b3246c8e5c968f32d4fb16f.js": "/react-search-user/precache-manifest.ed86c35e2b3246c8e5c968f32d4fb16f.js",
+    "service-worker.js": "/react-search-user/service-worker.js",
+    "static/css/main.d1b59c5c.chunk.css.map": "/react-search-user/static/css/main.d1b59c5c.chunk.css.map",
+    "static/js/2.b0e7918a.chunk.js.LICENSE.txt": "/react-search-user/static/js/2.b0e7918a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-search-user/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.59187488.js",
+    "static/js/runtime-main.085b95f6.js",
     "static/js/2.b0e7918a.chunk.js",
     "static/css/main.d1b59c5c.chunk.css",
-    "static/js/main.385a6e73.chunk.js"
+    "static/js/main.17cc99ed.chunk.js"
   ]
 }
